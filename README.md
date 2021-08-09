@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio César Gama</h1>
 <h3 align="center">A full-stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **NodeJS...**
+- 🌱 I’m currently learning **Angular, C#...**
 
 - 📝 I regularly write articles on [Wordpress](https://juliocesargama.wordpress.com/)
 
