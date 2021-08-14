@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Angular, C#...**
 
-- 📝 I regularly write articles on [Wordpress](https://juliocesargama.wordpress.com/)
 
-- 📫 How to reach me **https://linktr.ee/juliocesargama**
+- 📫 How to reach me **[here](https://linktr.ee/juliocesargama)**.
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1rln5myc2ggi366e0PdP743-kLm7PNQ8D/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
