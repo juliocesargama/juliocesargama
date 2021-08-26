@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julio César Gama</h1>
 <h3 align="center">A full-stack developer from Brazil</h3>
-<p  align="center">- 🌱 I’m currently learning Angular, C#...</p>
+<p  align="center">- 🌱 I’m currently learning Angular...</p>
 <p  align="center">- 📫 How to reach me <a href="https://linktr.ee/juliocesargama" target="blank">here</a>.</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliocesargama&show_icons=true&locale=en&layout=compact" alt="juliocesargama" /></p>
