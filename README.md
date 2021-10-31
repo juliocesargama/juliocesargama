@@ -1,20 +1,20 @@
 <div align="center">
 
-### Hello, I'm Julio César Gama (he/him)
+### Hello, I'm Julio César Gama (he/him) 👨‍💻🏳️‍🌈
 #### Full-stack developer in Brazil.
 </div>  
 
 <div align="center" style="display: inline_block">
-  <a href="mailto:juliocesargama@protonmail.com" target="_blank">
+  <a href="mailto:juliocesargama@protonmail.com" target="blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/JuliusCGama" target="_blank">
+  <a href="https://t.me/JuliusCGama" target="blank">
   <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/juliocesargama/" target="_blank">
+  <a href="https://www.linkedin.com/in/juliocesargama/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://juliocesargama.wordpress.com/" target="_blank">
+  <a href="https://juliocesargama.wordpress.com/" target="blank">
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
     <a href="https://linktr.ee/juliocesargama" target="_blank">
