@@ -1,23 +1,23 @@
 <div align="center">
 
 ### Hello, I'm Julio César Gama (he/him) 👨‍💻🏳️‍🌈
-#### Full-stack developer in Brazil.
+#### Full Stack developer in São Paulo, Brazil.
 </div>  
 
 <div align="center" style="display: inline_block">
-  <a href="mailto:juliocesargama@protonmail.com" target="blank">
+  <a target="_blank" href="mailto:juliocesargama@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/JuliusCGama" target="blank">
+  <a target="_blank" href="https://t.me/JuliusCGama">
   <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/juliocesargama/" target="blank">
+  <a target="_blank" href="https://www.linkedin.com/in/juliocesargama/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://juliocesargama.wordpress.com/" target="blank">
+  <a target="_blank" href="https://juliocesargama.wordpress.com/">
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
-    <a href="https://linktr.ee/juliocesargama" target="_blank">
+    <a target="_blank" href="https://linktr.ee/juliocesargama">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </div>  
@@ -26,8 +26,8 @@
  
 <div align="center">
 <a href="https://github.com/juliocesargama">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=juliocesargama&theme=github_dark&count_private=true&show_icons=true&hide=stars&hide_border=true" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliocesargama&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=juliocesargama&theme=github_dark&count_private=true&show_icons=true&hide=stars&hide_border=true" />
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliocesargama&layout=compact&theme=github_dark&hide_border=true" />
 </a>
 </div>
 
