@@ -34,7 +34,7 @@
 <div align="center">
   
 ##
-#### Programming Languages, Databases & Tools:
+#### Programming Languages, Frameworks & Tools:
 </div>
   <div align="center" style="display: inline_block">
   <img width="36" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
