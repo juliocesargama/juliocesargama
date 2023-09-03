@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hello, I'm Julio César Gama (he/him) 👨‍💻🏳️‍🌈
-### Full Stack developer Jr. in São Paulo, Brazil.
+### Back End developer Jr. in São Paulo, Brazil.
 </div>  
 
 <div align="center" style="display: inline_block">
