@@ -1,21 +1,15 @@
 <div align="center">
 
 ### Hello, I'm Julio César Gama (he/him) 👨‍💻🏳️‍🌈
-### Back End developer Jr. in São Paulo, Brazil.
+### Back End developer in São Paulo, Brazil.
 </div>  
 
 <div align="center" style="display: inline_block">
   <a target="_blank" href="mailto:juliocesargama@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://t.me/JuliusCGama">
-  <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
   <a target="_blank" href="https://www.linkedin.com/in/juliocesargama/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://juliocesargama.wordpress.com/">
-    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
     <a target="_blank" href="https://linktr.ee/juliocesargama">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
@@ -37,8 +31,6 @@
 #### Programming Languages, Frameworks & Tools:
 </div>
   <div align="center" style="display: inline_block">
-  <img width="36" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="36" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="36" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img width="36" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width="36" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
