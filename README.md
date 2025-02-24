@@ -5,9 +5,6 @@
 </div>  
 
 <div align="center" style="display: inline_block">
-  <a target="_blank" href="mailto:juliocesargama@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
-  </a>
   <a target="_blank" href="https://www.linkedin.com/in/juliocesargama/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
